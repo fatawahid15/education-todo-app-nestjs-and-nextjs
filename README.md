@@ -141,4 +141,4 @@ src/
 - [Tutorial Source](https://dev.to/carlomigueldy/building-a-restful-api-with-nestjs-and-mongodb-mongoose-2165)
 
 ## Contributing
-Feel free to submit issues and enhancement requests.# education-todo-app-nestjs-and-nextjs
+Feel free to submit issues and enhancement requests.
